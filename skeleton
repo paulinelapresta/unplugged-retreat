@@ -1,0 +1,33 @@
+- header
+  - logo
+  - navigation bar
+    - about
+    - faq
+  - headline
+  - image
+
+- content area
+  - newsletter signup
+    - headline text
+    - paragraph text
+    - headline text
+    - email field
+    - submit button
+  - info about unplugged
+    - headline text
+    - ackground image
+    - icons
+    - text
+  - previous retreats
+    - headline text
+    - paragraph text
+    - image
+
+- footer
+  - contact
+    - headline text
+    - contact info
+  - social media
+    - headline text
+    - social icons
+  - copyright
