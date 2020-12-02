@@ -103,6 +103,8 @@ textarea {
 
    ul, ol {
      list-style-type: none;
+     margin: 0;
+     padding: 0;
    }
 
    a {
@@ -114,6 +116,7 @@ textarea {
      font-family: 'Poppins', sans-serif;
      font-size: 1.875em;
      font-weight: 500;
+     margin: 0;
    }
 
    h3, h4 {
@@ -590,7 +593,7 @@ textarea {
 
   aside .content-wrapper .form-description,
   aside .content-wrapper .form {
-    width: 35%;
+    width: 40%;
     margin: 0;
   }
 
